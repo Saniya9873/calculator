@@ -29,6 +29,7 @@ input{
     box-shadow: 0 3px 15px rgba(84,84,84,0.1) ;
     text-align: right;
     font-size: 40px;
+    color:white;
 }
 input ::placeholder{
     color: white;
